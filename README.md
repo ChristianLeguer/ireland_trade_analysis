@@ -8,6 +8,13 @@ This project analyzes the historical evolution of exports, imports, and trade ba
   - year
   - metric (Exports, Imports, Exports minus Imports)
   - value (Euro Thousands)
+ 
+## Project Structure
+- Phase 1: Business understanding
+- Phase 2: Data understanding and preparation
+- Phase 3: Exploratory data analysis
+- Phase 4: Insights and conclusions
+
 ## Methodology
 
 1. Data understanding and inspection
